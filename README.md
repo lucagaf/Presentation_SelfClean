@@ -1,6 +1,6 @@
 # Presentation_SelfClean
 
-I collected 100 images from the HSLU campus in horw and 90 images 
+I collected 100 images from the HSLU campus in horw and 91 images 
 from the Rotkreuz campus. The goal of the selfClean package
 ([Digital Dermatology - SelfClean Repository](https://github.com/Digital-Dermatology/SelfClean/tree/main))
  will be to detect data quality issues such as near duplicates, outliers and mislabeled iamges.  
