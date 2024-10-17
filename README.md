@@ -7,13 +7,13 @@ from the Rotkreuz campus. The goal of the selfClean package
 
 ## Mislabeled Image
 I intentionally moved the image "Horw_2439.JPG," which was taken in Horw, into the folder for Rotkreuz.
-The goal of the SelfClean 
+The goal of the SelfClean is the identify this image as mislabeled.
 
 ## Outliers
 Outliers are defined as images that are not taken on the campus of HSLU. They will soon be added to the dataset.
 
 ## Near Duplicates 
-During the dataset collection, I took multiple images of the same object. The goal of the SelfClean package is to identify these images. 
+During the dataset collection, I took multiple images of the same object but different angle. The goal of the SelfClean package is to identify these images. 
 These are my expected near duplicates:
 **Expected Near Duplicates 1**
 - Horw_2385.JPG
