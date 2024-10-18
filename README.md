@@ -19,7 +19,7 @@ Outliers are defined as images that are not taken on the campus of HSLU. One pic
 A second outlier of the "Pädagogische Hochschule" campus is placed in the Horw folder. 
 - Horw_2555.JPG
 <p float="left">
-  <img src="./Dataset/Horw/Horw_2555" width="200" />
+  <img src="./Dataset/Horw/Horw_2555.JPG" width="200" />
 </p>
 
 ## Near Duplicates 
