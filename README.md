@@ -10,11 +10,21 @@ I intentionally moved the image "Horw_2439.JPG," which was taken in Horw, into t
 The goal of the SelfClean is the identify this image as mislabeled.
 
 ## Outliers
-Outliers are defined as images that are not taken on the campus of HSLU. They will soon be added to the dataset.
+Outliers are defined as images that are not taken on the campus of HSLU. One picture of the "Kapellbrücke" is saved in the Rotkreuz directory. 
+- Rotkreuz_2552.JPG
+<p float="left">
+  <img src="./Dataset/Rotkreuz/Rotkreuz_2552.JPG" width="200" />
+</p>
+
+A second outlier of the "Pädagogische Hochschule" campus is placed in the Horw folder. 
+- Horw_2555.JPG
+<p float="left">
+  <img src="./Dataset/Horw/Horw_2555" width="200" />
+</p>
 
 ## Near Duplicates 
 During the dataset collection, I took multiple images of the same object but different angle. The goal of the SelfClean package is to identify these images. 
-These are my expected near duplicates:
+These are my expected near duplicates: <br>
 **Expected Near Duplicates 1**
 - Horw_2385.JPG
 - Horw_2386.JPG
