@@ -6,11 +6,11 @@ from the Rotkreuz campus. The goal of the selfClean package
  will be to detect data quality issues such as near duplicates, outliers and mislabeled iamges.  
 
 ## Mislabeled Image
-I intentionally moved the image "Horw_2439.JPG," which was taken in Horw, into the folder for Rotkreuz.
+I intentionally moved the image "Horw_2427.JPG," which was taken in Horw, into the folder for Rotkreuz.
 The goal of the SelfClean is the identify this image as mislabeled.
 
 <p float="left">
-  <img src="./Dataset/Rotkreuz/Horw_2439.JPG" width="200" />
+  <img src="./Dataset/Rotkreuz/Horw_2427.JPG" width="200" />
 </p>
 
 ## Outliers
