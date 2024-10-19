@@ -1,4 +1,4 @@
-# Presentation_SelfClean
+# Presentation SelfClean
 
 I collected 100 images from the HSLU campus in horw and 91 images 
 from the Rotkreuz campus. The goal of the selfClean package
@@ -10,7 +10,7 @@ I intentionally moved the image "Horw_2439.JPG," which was taken in Horw, into t
 The goal of the SelfClean is the identify this image as mislabeled.
 
 ## Outliers
-Outliers are defined as images that are not taken on the campus of HSLU. One picture of the "Kapellbrücke" is saved in the Rotkreuz directory. 
+Outliers are defined as images that are not taken on the campus of HSLU. These are the outliers in the Rotkreuz subfolder: 
 - Rotkreuz_2552.JPG
 - Rotkreuz_9975.JPG
 <p float="left">
@@ -18,11 +18,11 @@ Outliers are defined as images that are not taken on the campus of HSLU. One pic
  <img src="./Dataset/Rotkreuz/Rotkreuz_9975.jpg" width="200" />
 </p>
 
-A second outlier of the "Pädagogische Hochschule" campus is placed in the Horw folder. 
-- Horw_2555.JPG
+The subfolder "Horw" contains the following two outliers: 
+- Horw_7789.JPG
 - Horw_0517.JPG
 <p float="left">
-  <img src="./Dataset/Horw/Horw_2555.JPG" width="200" />
+  <img src="./Dataset/Horw/Horw_7789.jpg" width="200" />
  <img src="./Dataset/Horw/Horw_0517.jpg" width="200" />
 </p>
 
