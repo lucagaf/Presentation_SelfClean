@@ -12,14 +12,18 @@ The goal of the SelfClean is the identify this image as mislabeled.
 ## Outliers
 Outliers are defined as images that are not taken on the campus of HSLU. One picture of the "Kapellbrücke" is saved in the Rotkreuz directory. 
 - Rotkreuz_2552.JPG
+- Rotkreuz_9975.JPG
 <p float="left">
   <img src="./Dataset/Rotkreuz/Rotkreuz_2552.JPG" width="200" />
+ <img src="./Dataset/Rotkreuz/Rotkreuz_9975.jpg" width="200" />
 </p>
 
 A second outlier of the "Pädagogische Hochschule" campus is placed in the Horw folder. 
 - Horw_2555.JPG
+- Horw_0517.JPG
 <p float="left">
   <img src="./Dataset/Horw/Horw_2555.JPG" width="200" />
+ <img src="./Dataset/Horw/Horw_0517.jpg" width="200" />
 </p>
 
 ## Near Duplicates 
