@@ -9,6 +9,10 @@ from the Rotkreuz campus. The goal of the selfClean package
 I intentionally moved the image "Horw_2439.JPG," which was taken in Horw, into the folder for Rotkreuz.
 The goal of the SelfClean is the identify this image as mislabeled.
 
+<p float="left">
+  <img src="./Dataset/Horw/Horw_2439.JPG" width="200" />
+</p>
+
 ## Outliers
 Outliers are defined as images that are not taken on the campus of HSLU. These are the outliers in the Rotkreuz subfolder: 
 - Rotkreuz_2552.JPG
